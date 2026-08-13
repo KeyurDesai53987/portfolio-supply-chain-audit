@@ -1,0 +1,11 @@
+{
+  "resolved_packages": 12,
+  "direct_pinned_packages": 3,
+  "transitive_resolver_selected_packages": 9,
+  "packages_with_osv_matches": 0,
+  "unique_osv_records": 0,
+  "total_package_record_matches": 0,
+  "affected_packages": [],
+  "alias_prefix_counts": {},
+  "interpretation": "Zero matches means OSV returned no known records for these exact versions at retrieval time; it does not prove absence of vulnerabilities."
+}

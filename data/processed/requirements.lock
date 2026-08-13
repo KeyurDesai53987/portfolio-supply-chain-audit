@@ -1,0 +1,14 @@
+# Platform-specific lock generated from the captured pip report.
+# Install with: pip install --require-hashes -r data/processed/requirements.lock
+contourpy==1.3.3 --hash=sha256:cbedb772ed74ff5be440fa8eee9bd49f64f6e3fc09436d9c7d8f1c287b121d77
+cycler==0.12.1 --hash=sha256:85cef7cff222d8644161529808465972e51340599459b8ac3ccbac5a854e0d30
+duckdb==1.3.2 --hash=sha256:c658df8a1bc78704f702ad0d954d82a1edd4518d7a04f00027ec53e40f591ff5
+fonttools==4.63.0 --hash=sha256:fd1e3094f42d806d3d7c79162fc59e5910fcbe3a7360c385b8da969bc4493745
+kiwisolver==1.5.0 --hash=sha256:0cbe94b69b819209a62cb27bdfa5dc2a8977d8de2f89dfd97ba4f53ed3af754e
+matplotlib==3.10.5 --hash=sha256:77fab633e94b9da60512d4fa0213daeb76d5a7b05156840c4fd0399b4b818837
+numpy==2.5.2 --hash=sha256:9e9413326d726c2545bfa65d2c0876871e8d8386e77f992c1d426e180bbd4323
+packaging==26.3 --hash=sha256:d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c
+pillow==12.3.0 --hash=sha256:e158cb00350dc278f3b91551101aa7d12415a66ebf2c91d8d5ac14e56ddd3ad0
+pyparsing==3.3.2 --hash=sha256:850ba148bd908d7e2411587e247a1e4f0327839c40e2e5e6d05a007ecc69911d
+python-dateutil==2.9.0.post0 --hash=sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427
+six==1.17.0 --hash=sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274

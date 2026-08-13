@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600">
+<rect width="100%" height="100%" fill="#F8FAFC"/>
+<text x="130" y="48" font-family="Arial" font-size="29" font-weight="700" fill="#172B4D">Exact-version OSV query outcome</text>
+<text x="130" y="80" font-family="Arial" font-size="16" fill="#5E6C84">A clean database query is time-bound evidence, not proof that vulnerabilities do not exist</text>
+<rect x="236.25" y="178.33333333333331" width="212.5" height="291.6666666666667" rx="5" fill="#2A9D8F"/>
+<text x="342.5" y="168.33333333333331" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">12</text>
+<text x="342.5" y="502" text-anchor="middle" font-family="Arial" font-size="16">Queried versions</text>
+<rect x="661.25" y="470.0" width="212.5" height="0.0" rx="5" fill="#D1495B"/>
+<text x="767.5" y="460.0" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">0</text>
+<text x="767.5" y="502" text-anchor="middle" font-family="Arial" font-size="16">Versions with matches</text>
+</svg>

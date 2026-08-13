@@ -1,0 +1,22 @@
+{
+  "subject_repository": "KeyurDesai53987/rideshare-marketplace-analysis",
+  "subject_commit": "2032193eea41d0aeb7307cd8ee2ce4751038359d",
+  "subject_requirements_url": "https://github.com/KeyurDesai53987/rideshare-marketplace-analysis/blob/2032193eea41d0aeb7307cd8ee2ce4751038359d/requirements.txt",
+  "resolver": "pip 26.1.1 --dry-run --ignore-installed --report",
+  "osv_api": "https://api.osv.dev/v1/querybatch",
+  "osv_documentation": "https://google.github.io/osv.dev/api/",
+  "retrieved_utc": "2026-08-13T13:25:13Z",
+  "direct_requirements": 3,
+  "resolved_packages": 12,
+  "matched_vulnerability_ids": 0,
+  "sha256": {
+    "source-requirements.txt": "d565bc0d8ef7882ef4744758f74b5e43ae8557df46a0997ce2e419dbe3458497",
+    "pip-resolution.json": "8e9af2b9c9cfe09a8307a2a7c4bc09c274614406dce795451f05ce964c527740",
+    "osv-results.json": "ffed1e9b89e98b8b29aa79a52116b42eb5d2b47c38d647e90e569a3328e80f0c"
+  },
+  "lock_artifact": {
+    "path": "data/processed/requirements.lock",
+    "sha256": "04320a2f98dc52c6869dc1a8f755ba69da040b31c24c4509a3ffc43a9a9185c8"
+  },
+  "scope": "Resolution is platform- and Python-version-specific; source records are factual snapshots, not generated dependencies."
+}
